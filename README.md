@@ -8,8 +8,6 @@ Open-CV image processing demos.
 
 ## Resources
 
-<p align="center">
-  <img src="./assets/opencv-logo-black.png" alt="OpenCV Logo" width="100"/>
-</p>
+<img src="./assets/opencv-logo-black.png" alt="OpenCV Logo" width="300"/>
 
 [Open-CV](https://opencv.org/)
