@@ -1,8 +1,15 @@
 # CIS450-demo
-Sample GitHub project
 
-![OpenCV Logo](assets/opencv-logo-black.png)
+## Introduction
+This repo illustrates best practice README file generation.
 
-## Attribution
-OpenCV logo and name are trademarks of OpenCV.org.
-https://opencv.org
+## Projects
+Open-CV image processing demos.
+
+## Resources
+
+<p align="center">
+  <img src="./assets/opencv-logo-black.png" alt="OpenCV Logo" width="100"/>
+</p>
+
+[Open-CV](https://opencv.org/)
