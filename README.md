@@ -11,3 +11,6 @@ Open-CV image processing demos.
 <img src="./assets/opencv-logo-black.png" alt="OpenCV Logo" width="100"/>
 
 [Open-CV](https://opencv.org/)
+
+## Edge Detection
+Edge detection works on an image by detecting pixel intensity changes with specific algorithms. Image blending combines more than one image and allows for a smooth transition.
